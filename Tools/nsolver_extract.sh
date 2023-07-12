@@ -1,5 +1,6 @@
 #!/bin/bash
-# Author: Vijay Nagarajan PhD, NEI/NIH
+# Author : Vijay Nagarajan PhD
+# Institute : NEI/NIH
 # This bash script takes nanostring/nsolver DE file and extracts filtered DGE lists, filtered DGE names, ids, cleans ids, writes file for geo matrix and cytoscape input
 
 samples="LiLP LP MLN SiLP SLN"

@@ -1,6 +1,6 @@
 # Author : Vijay Nagarajan PhD
 # Institute : NEI/NIH
-# This bash scripts reads in the gsea input, gmt file and generates gsea output for all samples in a folder
+# This bash script reads in the gsea input, gmt file and generates gsea output for all samples in a folder
 
 # Sample list
 samples="IEL_LT_d0.vs..PLN_NT_d0	IEL_ST_d0.vs..PLN_NT_d0	SILP_ST_d0.vs..PLN_NT_d0	SILP_ST_d7.vs..PLN_NT_d0"
